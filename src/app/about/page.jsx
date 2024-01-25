@@ -62,19 +62,35 @@ export default function About() {
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-            You know, if you told my younger self that I&apos;d be geeking out over software development, I would&apos;ve laughed but life has a funny way of throwing surprises at you. I started off with a degree in English and History, which I loved. Fast forward a bit, and I found myself deep in the world of sales and operations management. It was great, really. I got to meet loads of people, solve problems, and learn a ton about what makes a business tick.
+            You know, if you told my younger self that I&apos;d be geeking out over software development, 
+            I would&apos;ve laughed but life has a funny way of throwing surprises at you. I started off 
+            with a degree in English and History, which I loved. Fast forward a bit, and I found myself
+             deep in the world of sales and operations management. It was great, really. I got to meet loads 
+             of people, solve problems, and learn a ton about what makes a business tick.
             </p>
             <p>
-              But then, something clicked. About 4 years ago I got involved in this project at work, setting up a B2B eccomerce platform, and it was like a whole new world opened up for me. My brother (a Full Stack Engineer), seeing me get all excited about tech stuff, suggested I try out a computer science course from Harvard(CS50). I thought I&apos;d just be learning a new skill, but it turned out to be a whole lot more.
+              But then, something clicked. About 4 years ago I got involved in this project at work, 
+              setting up a B2B eccomerce platform, and it was like a whole new world opened up for me.
+              My brother (a Full Stack Engineer), seeing me get all excited about tech stuff,
+              suggested I try out a computer science course from Harvard(CS50). 
+              I thought I&apos;d just be learning a new skill, but it turned out to be a whole lot more.
             </p>
             <p>
-              I started exploring more, taking on more software implementation and automation projects at work, and casually continuing my coding education on the side. About a year ago, it became pretty clear to me that coding was what I was passionate about and so I intensified my studying, took more courses and built more projects. I loved the feeling of getting lost in a complex problem or finishing a project and having the rush of knowing that that was something I had created.
+              I started exploring more, taking on more software implementation and automation projects 
+              at work, and casually continuing my coding education on the side. About a year ago, 
+              it became pretty clear to me that coding was what I was passionate about and so 
+              I intensified my studying, took more courses and built more projects. I loved the feeling 
+              of getting lost in a complex problem or finishing a project and having the rush of knowing 
+              that that was something I had created.
             </p>
             <p>
-              So, here I am, on this somewhat unconventional path, diving headfirst into software development and loving every bit of it. It&apos;s not just about changing careers; it&apos;s about finding something that excites me every day.
+              So, here I am, on this somewhat unconventional path, diving headfirst into software development 
+              and loving every bit of it. It&apos;s not just about changing careers; it&apos;s about finding 
+              something that excites me every day.
             </p>
             <p>
-            I can’t wait to see where this road is taking me and learn what I can build and learn along the way. Let&apos;s see where this adventure goes!
+            I can&apos;t wait to see where this road is taking me and learn what I can build and learn along the way. 
+            Let&apos;s see where this adventure goes!
             </p>
           </div>
         </div>
