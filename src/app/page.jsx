@@ -113,7 +113,7 @@ function Newsletter() {
         <span className="ml-3">Get in touch</span>
       </h2>
       <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
-        Want to say hi or learn more? just send me a message and I'll get back to you as soon as I can.
+        Want to say hi or learn more? just send me a message and I&apos;ll get back to you as soon as I can.
       </p>
       <div className="mt-6 grid" >
         <input
@@ -275,10 +275,10 @@ export default async function Home() {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            Hey, I'm Aoibheann. Software developer and technology enthusiast
+            Hey, I&apos;m Aoibheann. Software developer and technology enthusiast
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          Based in Vancouver, BC, I'm on an unconventional path, exploring, learning, and building in the dynamic world of software development.
+          Based in Vancouver, BC, I&apos;m on an unconventional path, exploring, learning, and building in the dynamic world of software development.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink 

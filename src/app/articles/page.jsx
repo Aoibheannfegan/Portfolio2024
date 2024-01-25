@@ -44,7 +44,7 @@ export default async function ArticlesIndex() {
   return (
     <SimpleLayout
       title="Education & Certifications"
-      intro="Below is a breakdown of the courses and certifications I've completed in my pursuit of become a full time developer. You will find an overview of each course and the languages and frameworks I focused on in each. I've also speant completing several of the Front End Masters learning paths."
+      intro="Below is a breakdown of the courses and certifications I&apos;ve completed in my pursuit of become a full time developer. You will find an overview of each course and the languages and frameworks I focused on in each. I&apos;ve also speant completing several of the Front End Masters learning paths."
     >
       <div className="md:border-l md:border-zinc-100 md:pl-6 md:dark:border-zinc-700/40">
         <div className="flex max-w-3xl flex-col space-y-16">
