@@ -9,9 +9,17 @@ import pacificpaws from '@/images/projects/pacificpaws.png'
 import twitter from '@/images/projects/twitter.png'
 import wedding from '@/images/projects/wedding.png'
 import wiki from '@/images/projects/wiki.png'
+import SplitWiser from '@/images/projects/SplitWiser.png'
 
 
 const projects = [
+  {
+    name: 'SplitWiser',
+    description:
+      'An Django app to make sharing expenses easier. Login with username:TestUser password:TestAccount',
+    link: { href: 'https://web-production-f501.up.railway.app/', label: 'Visit App' },
+    logo: SplitWiser,
+  },
   {
     name: 'Adoptly',
     description:
