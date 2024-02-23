@@ -16,7 +16,7 @@ const projects = [
   {
     name: 'SplitWiser',
     description:
-      'An Django app to make sharing expenses easier. Login with username:TestUser password:TestAccount',
+      'An Django app to make sharing expenses easier. Login with username:TestUser password:TestAccount1',
     link: { href: 'https://web-production-f501.up.railway.app/', label: 'Visit App' },
     logo: SplitWiser,
   },
