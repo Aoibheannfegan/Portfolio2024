@@ -35,7 +35,7 @@ const projects = [
     logo: wedding,
   },
   {
-    name: 'My Ebay',
+    name: 'Auctions',
     description:
       'An Ebay style store built with Django. Create new listings, bid and add items to your watchlist.',
     link: { href: 'https://web-production-4335.up.railway.app/', label: 'Visit App' },
